@@ -136,7 +136,7 @@ export function ConnectionState({ isConnected }) {
 }
 ```
 
-- `src/components/Events.js`
+- `src/components/MyEvents.js`
 
 ```js
 import React from 'react';
